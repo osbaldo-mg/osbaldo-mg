@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @osbaldo-mg
-- 👀 I’m interested in ...Develop solutions
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...Open Source
 - 📫 How to reach me ...omartinez@sdia.com.mx
 
 <!---
